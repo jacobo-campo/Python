@@ -51,3 +51,35 @@ Trabajaremos con herramientas que son estándar en el mundo real:
 - `statsmodels` (modelos estadísticos, cuando aplique)
 
 ---
+
+## 🧰 Herramientas oficiales del curso
+
+Trabajaremos con este stack. Todos los enlaces llevan al sitio oficial:
+
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-Distribution-44A833?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![JupyterLab](https://img.shields.io/badge/JupyterLab-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+- **Google Colab**: notebooks en la nube (ideal para empezar rápido y evitar instalaciones).
+- **VS Code**: editor principal para trabajar con proyectos y scripts.
+- **Anaconda**: para instalar Python y gestionar entornos (paquetes) de forma ordenada.
+- **JupyterLab**: para trabajar con notebooks localmente cuando lo necesites.
+
+---
+
+<details>
+  <summary><strong>Alternativas (opcionales)</strong></summary>
+
+### Nube
+[![Kaggle Notebooks](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code)
+[![myBinder](https://img.shields.io/badge/Binder-Launch-F37626?logo=jupyter&logoColor=white)](https://mybinder.org/)
+[![GitHub Codespaces](https://img.shields.io/badge/GitHub-Codespaces-181717?logo=github&logoColor=white)](https://github.com/features/codespaces)
+[![Replit](https://img.shields.io/badge/Replit-Online-667881?logo=replit&logoColor=white)](https://replit.com/)
+
+### IDEs / entornos locales
+[![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Spyder](https://img.shields.io/badge/Spyder-IDE-FF0000?logo=spyderide&logoColor=white)](https://www.spyder-ide.org/)
+[![Thonny](https://img.shields.io/badge/Thonny-Beginner%20IDE-2E7D32?logo=python&logoColor=white)](https://thonny.org/)
+
+</details>
